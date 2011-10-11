@@ -25,6 +25,7 @@ O que será observado e avaliado?
   * Organização, padronização e otimização do código
   * Criatividade e proatividade (animações não são obrigatórias porém contam a favor)
   * Organização dos arquivos de publicação
+  * Parametrização da aplicação
 
 Requerimentos
 ---------------------------
