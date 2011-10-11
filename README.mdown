@@ -1,0 +1,39 @@
+Rex.tc
+===============================
+
+Esse é um projeto de teste que os candidatos a vaga de Dev Pleno deverão resolver.
+
+Descrição
+--------
+
+O job consiste em um pequeno hotsite com navegação em duas áreas.
+
+  1. Youtube - O candidato deverá executar um vídeo que esteja no youtube (qualquer um) dentro de um player personalizado
+  2. Flickr - O candidato deverá carregar um conjunto de fotos do Flickr (qualquer set ta valendo) que, quando o usuário clicar numa das miniaturas, deverá aparecer a foto em tamanho maior.
+
+Material
+------
+
+Neste repositório estão todos os arquivos necessários para o projeto
+
+  * JPG - Imagens JPG de referência
+  * FLA - Arquivo FLA para desenvolvimento
+
+O que será observado e avaliado?
+----------------------------------
+
+  * Organização, padronização e otimização do código
+  * Criatividade e proatividade (animações não são obrigatórias porém contam a favor)
+  * Organização dos arquivos de publicação
+
+Requerimentos
+---------------------------
+
+  * ActionScript 3
+  * FlashBuilder 4.5
+  * NÃO desenvolver nem compilar no Flash IDE
+
+Entrega
+--------
+
+O projeto resolvido deverá ser publicado no Github e enviado por email para neto@rex.tc
