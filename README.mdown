@@ -8,7 +8,7 @@ Descrição
 
 O job consiste em um pequeno hotsite com navegação em duas áreas.
 
-  1. Youtube - O candidato deverá executar um vídeo que esteja no youtube (qualquer um) dentro de um player personalizado
+  1. Youtube - O candidato deverá criar um player personalizado capaz de executar um vídeo que esteja no youtube (qualquer um).
   2. Flickr - O candidato deverá carregar um conjunto de fotos do Flickr (qualquer set ta valendo) que, quando o usuário clicar numa das miniaturas, deverá aparecer a foto em tamanho maior.
 
 Material
